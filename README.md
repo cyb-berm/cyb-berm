@@ -1,7 +1,24 @@
-## Hi there 👋
+<h1>Hi, I'm Berm! <br/><a
+
+<h2>🧑🏽‍💻 Cybersecurity Projects:</h2>
+- [Active Directory Home Lab]
+
+- <b>📃 Certifications</b>
+  - https://www.credly.com/earner/earned/share/c9c5da94-7b4c-4382-82ce-64f406195643
+
+
+<h2>🎥 Videos</h2>
+
+- [Tutorial Active Directory Lab](https://www.youtube.com/watch?v=a83ASGn_V_s)
+
+
+<h2> 🤳 Connect with me:</h2>
+- [Linkedin] https://www.linkedin.com/in/bermickg/
+
+
 
 <!--
-**cyb-berm/cyb-berm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
