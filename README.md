@@ -4,7 +4,8 @@
 - [Active Directory Home Lab]
 
 - <b>📃 Certifications</b>
-  - https://www.credly.com/earner/earned/share/c9c5da94-7b4c-4382-82ce-64f406195643
+  - ✔️CompTIA SEC+
+  - 
 
 
 <h2>🎥 Videos</h2>
