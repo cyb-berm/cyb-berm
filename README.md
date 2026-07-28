@@ -1,7 +1,7 @@
 <h1>Hi, I'm Berm! <br/><a
 
 <h2>🧑🏽‍💻 Cybersecurity Projects:</h2>
-- [Active Directory Home Lab]
+- []
 
 - <b>📃 Certifications</b>
   - ✔️CompTIA SEC+
