@@ -10,7 +10,7 @@
 
 <h2>🎥 Videos</h2>
 
-- [Tutorial Active Directory Lab](https://www.youtube.com/watch?v=a83ASGn_V_s)
+- [DISA STIG Lab](https://youtu.be/2sTpWrdbzwA)
 
 
 <h2> 🤳 Connect with me:</h2>
