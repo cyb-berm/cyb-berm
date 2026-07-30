@@ -5,7 +5,7 @@
 
 - <b>📃 Certifications</b>
   - ✔️CompTIA SEC+
-  - 
+    
 
 
 <h2>🎥 Videos</h2>
