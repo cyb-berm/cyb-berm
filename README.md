@@ -1,5 +1,6 @@
 <h1>Hi, I'm Berm! <br/><a
-Very passionate about technology as a whole.. Cybersecurity & A.I <3
+
+                         Very passionate about technology as a whole.. Cybersecurity & A.I <3
 <h2>🧑🏽‍💻 Cybersecurity Projects:</h2>
 - [Vulnerability Management Project](https://github.com/cyb-berm/Vulnerability-Management-Program/)
 
