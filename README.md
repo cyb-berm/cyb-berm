@@ -1,19 +1,38 @@
-<h1>Hi, I'm Berm! <br/><a
+# Hi, I'm Berm 👋
 
-                         Very passionate about technology as a whole.. Cybersecurity & A.I <3
-<h2>🧑🏽‍💻 Cybersecurity Projects:</h2>
-- [Vulnerability Management Project](https://github.com/cyb-berm/Vulnerability-Management-Program/)
+ Cybersecurity professional focused on vulnerability management, STIG remediation, and threat hunting. Currently building hands-on lab experience and working toward industry certifications.
 
-- <b>📃 Certifications</b>
-  - ✔️CompTIA SEC+
-    
+---
 
+## 🛡️ Certifications
 
-<h2>🎥 Videos</h2>
+| Certification | Status |
+|---|---|
+| CompTIA Security+ (SY0-701) | ✅|
 
-- [DISA STIG Lab](https://youtu.be/2sTpWrdbzwA)
+---
 
+## 🔬 Projects
 
-<h2> 🤳 Connect with me:</h2>
-- [Linkedin] https://www.linkedin.com/in/bermickg/
+| Project | Description |
+|---|---|
+| [STIG Remediation Lab](https://github.com/cyb-berm/STIG-Remediation-Lab) | Identification and remediation of 10 Windows 11 STIG findings using PowerShell and Group Policy on an Azure VM |
+| [Vulnerability Management Program](https://github.com/cyb-berm/Vulnerability-Management-Program) | End-to-end vulnerability management workflow including scanning, prioritization, and remediation |
+| [Threat Hunt — TOR Browser](https://github.com/cyb-berm/threat-hunting-scenario-tor) | Threat hunting scenario investigating TOR browser usage on a corporate network |
+| [Threat Hunt — RDP Compromise](https://github.com/cyb-berm/threat-hunt-RDP-compromise-incident) | Incident response and threat hunt for a simulated RDP compromise |
 
+---
+
+## 🎥 Lab Walkthroughs
+
+- [DISA STIG Lab — YouTube](https://youtu.be/2sTpWrdbzwA)
+
+---
+
+## 🤳 Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-bermickg-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bermickg/)
+
+---
+
+*Always learning. Always building.*
