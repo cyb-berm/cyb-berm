@@ -16,6 +16,7 @@ Cybersecurity professional focused on vulnerability management, STIG remediation
 
 | Project | Description |
 |---|---|
+| [LLDAP Least-Privilege Group Policy Lab](https://github.com/cyb-berm/LLDAP-least-privilege-group-policy-lab) | Built a role-based least-privilege model in LLDAP with a non-admin test user and a SOC Tier 1 read-only group, validated that admin actions were blocked, and audited privileged group memberships |
 | [JadePuffer — Agentic Ransomware Threat Hunt](https://github.com/cyb-berm/Threat-hunt-lab-JadePuffer) | Microsoft Sentinel (KQL) investigation reconstructing an autonomous LLM-agent-driven ransomware operation end to end — RCE initial access, C2, credential theft, lateral movement, privilege escalation, and impact — plus a reasoning section weighing human vs. autonomous behavior from the evidence |
 | [STIG Remediation Lab](https://github.com/cyb-berm/STIG-Remediation-Lab) | Identification and remediation of 10 Windows 11 STIG findings using PowerShell and Group Policy on an Azure VM |
 | [Vulnerability Management Program](https://github.com/cyb-berm/Vulnerability-Management-Program) | End-to-end vulnerability management workflow including scanning, prioritization, and remediation |
