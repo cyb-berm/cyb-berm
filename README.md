@@ -1,6 +1,6 @@
 # Hi, I'm Berm 👋
 
-Cybersecurity professional focused on vulnerability management, STIG remediation, and threat hunting. Currently building hands-on lab experience and working toward industry certifications.
+Cybersecurity professional focused on vulnerability management, STIG remediation, threat hunting, and identity and access management (IAM). Currently building hands-on lab experience and working toward industry certifications.
 
 ---
 
@@ -16,6 +16,7 @@ Cybersecurity professional focused on vulnerability management, STIG remediation
 
 | Project | Description |
 |---|---|
+| [Keycloak SSO & Access Control Lab](https://github.com/cyb-berm/keycloak-sso-access-control-lab) | Built a company identity realm in Keycloak from scratch: password and lockout baseline, group-based RBAC, OIDC client with audience restriction, JWT analysis and token introspection, TOTP MFA for privileged users, brute-force detection from event logs, and offboarding that revokes live tokens |
 | [LLDAP Least-Privilege Group Policy Lab](https://github.com/cyb-berm/LLDAP-least-privilege-group-policy-lab) | Built a role-based least-privilege model in LLDAP with a non-admin test user and a SOC Tier 1 read-only group, validated that admin actions were blocked, and audited privileged group memberships |
 | [JadePuffer — Agentic Ransomware Threat Hunt](https://github.com/cyb-berm/Threat-hunt-lab-JadePuffer) | Microsoft Sentinel (KQL) investigation reconstructing an autonomous LLM-agent-driven ransomware operation end to end — RCE initial access, C2, credential theft, lateral movement, privilege escalation, and impact — plus a reasoning section weighing human vs. autonomous behavior from the evidence |
 | [STIG Remediation Lab](https://github.com/cyb-berm/STIG-Remediation-Lab) | Identification and remediation of 10 Windows 11 STIG findings using PowerShell and Group Policy on an Azure VM |
