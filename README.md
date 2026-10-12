@@ -5,7 +5,7 @@
 I build hands-on labs around how organizations control **who gets access to what** — single sign-on, federation, MFA, least privilege, and the identity lifecycle. My foundation is in security operations (threat hunting, vulnerability management, and STIG/CIS hardening), which shapes how I approach IAM: every access decision is also a security decision.
 
 🎯 **Goal:** A long-term career in Identity & Access Management  
-🔨 **Currently:** Building IAM labs across SAML, OIDC, LDAP, and access governance
+🔨 **Currently:** Building IAM labs across SAML, OIDC, LDAP, and access governance, and studying for Microsoft SC-300 (Identity and Access Administrator)
 
 ---
 
@@ -44,6 +44,7 @@ I build hands-on labs around how organizations control **who gets access to what
 ## 📜 Certifications
 
 ![Security+](https://img.shields.io/badge/CompTIA-Security%2B%20(SY0--701)-C8202F?style=flat)
+![SC-300](https://img.shields.io/badge/Microsoft-SC--300%20(In%20Progress)-0078D4?style=flat)
 
 ---
 
