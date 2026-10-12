@@ -1,29 +1,49 @@
 # Hi, I'm Berm 👋
 
-Cybersecurity professional focused on vulnerability management, STIG remediation, threat hunting, and identity and access management (IAM). Currently building hands-on lab experience and working toward industry certifications.
+### Identity & Access Management | Security+ Certified
+
+I build hands-on labs around how organizations control **who gets access to what** — single sign-on, federation, MFA, least privilege, and the identity lifecycle. My foundation is in security operations (threat hunting, vulnerability management, and STIG/CIS hardening), which shapes how I approach IAM: every access decision is also a security decision.
+
+🎯 **Goal:** A long-term career in Identity & Access Management  
+🔨 **Currently:** Building IAM labs across SAML, OIDC, LDAP, and access governance
 
 ---
 
-## 🛡️ Certifications
+## 🔐 Identity & Access Management Labs
 
-| Certification | Status |
+| Lab | What I Built |
 |---|---|
-| CompTIA Security+ (SY0-701) | ✅|
+| [SAML 2.0 SSO with Auth0](https://github.com/cyb-berm/SAML-Lab) | End-to-end SAML federation between an IdP and SP: metadata trust exchange, SP-initiated SSO, assertion and attribute analysis in SAML-tracer, brokered Google login, and Single Logout troubleshooting |
+| [Keycloak SSO & Access Control](https://github.com/cyb-berm/keycloak-sso-access-control-lab) | A full identity realm with OIDC, group-based RBAC, TOTP MFA for privileged users, JWT and token introspection, brute-force detection, and joiner-mover-leaver lifecycle with live token revocation |
+| [CIS Compliance Assessment — IAM Focus](https://github.com/cyb-berm/CIS-Compliance-Assessment-with-an-Identity-and-Access-Focus) | Raised a payroll server from 59.82% to 99.99% CIS compliance by hardening SSH, PAM, and sudo, mapping findings to NIST 800-53 AC/IA controls, and documenting a risk exception and POA&M |
+| [LLDAP Least-Privilege Groups](https://github.com/cyb-berm/LLDAP-least-privilege-group-policy-lab) | A role-based least-privilege model in LDAP with a read-only SOC role, validated as a non-admin user and confirmed with a privileged-group access review |
 
 ---
 
-## 🔬 Projects
+## 🛡️ Security Operations & Hardening Labs
 
-| Project | Description |
+| Lab | What I Built |
 |---|---|
-| [CIS Compliance Assessment — Identity & Access Focus](https://github.com/cyb-berm/CIS-Compliance-Assessment-with-an-Identity-and-Access-Focus) | Assessed a payroll server against the CIS Ubuntu 24.04 Level 1 benchmark with OpenSCAP, raising compliance from 59.82% to 99.99%. Hardened SSH, PAM, and sudo, mapped IAM findings to NIST 800-53 AC/IA controls, caught a service-breaking automated fix under change control, and delivered a risk exception, manual findings, and a POA&M |
-| [Keycloak SSO & Access Control Lab](https://github.com/cyb-berm/keycloak-sso-access-control-lab) | Built a company identity realm in Keycloak from scratch: password and lockout baseline, group-based RBAC, OIDC client with audience restriction, JWT analysis and token introspection, TOTP MFA for privileged users, brute-force detection from event logs, and offboarding that revokes live tokens |
-| [LLDAP Least-Privilege Group Policy Lab](https://github.com/cyb-berm/LLDAP-least-privilege-group-policy-lab) | Built a role-based least-privilege model in LLDAP with a non-admin test user and a SOC Tier 1 read-only group, validated that admin actions were blocked, and audited privileged group memberships |
-| [JadePuffer — Agentic Ransomware Threat Hunt](https://github.com/cyb-berm/Threat-hunt-lab-JadePuffer) | Microsoft Sentinel (KQL) investigation reconstructing an autonomous LLM-agent-driven ransomware operation end to end — RCE initial access, C2, credential theft, lateral movement, privilege escalation, and impact — plus a reasoning section weighing human vs. autonomous behavior from the evidence |
-| [STIG Remediation Lab](https://github.com/cyb-berm/STIG-Remediation-Lab) | Identification and remediation of 10 Windows 11 STIG findings using PowerShell and Group Policy on an Azure VM |
-| [Vulnerability Management Program](https://github.com/cyb-berm/Vulnerability-Management-Program) | End-to-end vulnerability management workflow including scanning, prioritization, and remediation |
-| [Threat Hunt — TOR Browser](https://github.com/cyb-berm/threat-hunting-scenario-tor) | Threat hunting scenario investigating TOR browser usage on a corporate network |
+| [JadePuffer — Agentic Ransomware Threat Hunt](https://github.com/cyb-berm/Threat-hunt-lab-JadePuffer) | Microsoft Sentinel (KQL) investigation of an LLM-agent-driven ransomware attack, from RCE through credential theft, privilege escalation, and impact |
+| [STIG Remediation](https://github.com/cyb-berm/STIG-Remediation-Lab) | Remediated 10 Windows 11 STIG findings with PowerShell and Group Policy on an Azure VM |
+| [Vulnerability Management Program](https://github.com/cyb-berm/Vulnerability-Management-Program) | End-to-end vulnerability scanning, prioritization, and remediation workflow |
 | [Threat Hunt — RDP Compromise](https://github.com/cyb-berm/threat-hunt-RDP-compromise-incident) | Incident response and threat hunt for a simulated RDP compromise |
+| [Threat Hunt — TOR Browser](https://github.com/cyb-berm/threat-hunting-scenario-tor) | Investigated unauthorized TOR browser use on a corporate network |
+
+---
+
+## 🧰 Skills
+
+**Identity & Federation:** SAML 2.0 · OpenID Connect / OAuth 2.0 · SSO · MFA (TOTP) · RBAC · LDAP · Joiner-Mover-Leaver · Access Reviews · Service Accounts  
+**Platforms & Tools:** Keycloak · Auth0 · LLDAP · Microsoft Sentinel · OpenSCAP · Azure · SAML-tracer  
+**Frameworks:** NIST SP 800-53 (AC/IA) · NIST SP 800-63B · CIS Benchmarks · DISA STIG  
+**Scripting & Query:** KQL · PowerShell · Bash · curl / jq
+
+---
+
+## 📜 Certifications
+
+![Security+](https://img.shields.io/badge/CompTIA-Security%2B%20(SY0--701)-C8202F?style=flat)
 
 ---
 
